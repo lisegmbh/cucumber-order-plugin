@@ -4,7 +4,7 @@
   <groupId>com.github.lisegmbh</groupId>
   <artifactId>cucumber-order-plugin</artifactId>
   <packaging>maven-plugin</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>cucumber-order-plugin</name>
 
   <build>
