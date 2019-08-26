@@ -1,4 +1,4 @@
-package de.lise.plugins;
+package com.github.lisegmbh;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
