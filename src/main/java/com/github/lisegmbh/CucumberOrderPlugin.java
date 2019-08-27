@@ -15,7 +15,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.OptionalInt;
 
-@Mojo(name = "execute", defaultPhase = LifecyclePhase.PREPARE_PACKAGE)
+@Mojo(name = "execute", defaultPhase = LifecyclePhase.POST_INTEGRATION_TEST)
 public class CucumberOrderPlugin extends AbstractMojo {
     public static final String CHAPTER_TAG_NAME_DEFAULT = "Chapter";
 
