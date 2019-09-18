@@ -2,7 +2,7 @@
 
 # Cucumber Order Plugin
 
-This plugin turns tags from feature files into an order comment to enable sorting in Cukedoktor.
+This plugin turns tags from [cucumber](https://github.com/cucumber/cucumber) feature files into an order comment to enable sorting in [Cukedoktor](https://github.com/rmpestano/cukedoctor).
 
 The integration takes place via JitPack.
 
